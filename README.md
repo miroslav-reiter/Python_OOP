@@ -1,2 +1,2 @@
-# Python_OOP
-Python_OOP materiály, zdrojové kódy
+# 🧊 Python OOP
+Python OOP materiály, zdrojové kódy
